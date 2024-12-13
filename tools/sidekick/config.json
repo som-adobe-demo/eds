@@ -1,6 +1,5 @@
 {
   "plugins": [
-    // ...
     {
       "id": "generate-variations",
       "title": "Generate TCS Variations",
